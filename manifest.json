@@ -1,0 +1,7 @@
+{
+   "name": "Begone App Badge",
+   "version": "1.0.0",
+   "description": "Gets rid of the app's notification badge & the tray icon's badge.",
+   "author": "hellbound#9999",
+   "license": "Unlicensed"
+}
