@@ -1,4 +1,4 @@
-# Begone App Badge [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/begone-app-badge/badge)](https://www.codefactor.io/repository/github/hellbound1337/begone-app-badge)
+# Begone App Badge [![CodeFactor](https://www.codefactor.io/repository/github/hellboundthegod/begone-app-badge/badge)](https://www.codefactor.io/repository/github/hellboundthegod/begone-app-badge)
 
 A powercord plugin that gets rid of the app's notification badge & the tray icon's badge.
 
