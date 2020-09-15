@@ -8,7 +8,7 @@ A powercord plugin that gets rid of the app's notification badge & the tray icon
 
 # Installation
 
--  `git clone https://github.com/hellbound1337/begone-app-badge.git`
+-  `git clone https://github.com/hellboundthegod/begone-app-badge.git`
 
 # Support
 
